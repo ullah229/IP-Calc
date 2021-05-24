@@ -1,0 +1,30 @@
+C:\Users\Ullah\source\repos\IP Calc\IP Calc\bin\Debug\IP Calc.exe.config
+C:\Users\Ullah\source\repos\IP Calc\IP Calc\bin\Debug\IP Calc.exe
+C:\Users\Ullah\source\repos\IP Calc\IP Calc\bin\Debug\IP Calc.pdb
+C:\Users\Ullah\source\repos\IP Calc\IP Calc\obj\Debug\IP Calc.csprojAssemblyReference.cache
+C:\Users\Ullah\source\repos\IP Calc\IP Calc\obj\Debug\IP_Calc.Form1.resources
+C:\Users\Ullah\source\repos\IP Calc\IP Calc\obj\Debug\IP_Calc.Properties.Resources.resources
+C:\Users\Ullah\source\repos\IP Calc\IP Calc\obj\Debug\IP Calc.csproj.GenerateResource.cache
+C:\Users\Ullah\source\repos\IP Calc\IP Calc\obj\Debug\IP Calc.csproj.CoreCompileInputs.cache
+C:\Users\Ullah\source\repos\IP Calc\IP Calc\obj\Debug\IP Calc.exe
+C:\Users\Ullah\source\repos\IP Calc\IP Calc\obj\Debug\IP Calc.pdb
+C:\Users\Ullah\Desktop\IP Calc\IP Calc\bin\Debug\IP Calc.exe.config
+C:\Users\Ullah\Desktop\IP Calc\IP Calc\bin\Debug\IP Calc.exe
+C:\Users\Ullah\Desktop\IP Calc\IP Calc\bin\Debug\IP Calc.pdb
+C:\Users\Ullah\Desktop\IP Calc\IP Calc\obj\Debug\IP Calc.csprojAssemblyReference.cache
+C:\Users\Ullah\Desktop\IP Calc\IP Calc\obj\Debug\IP_Calc.Form1.resources
+C:\Users\Ullah\Desktop\IP Calc\IP Calc\obj\Debug\IP_Calc.Properties.Resources.resources
+C:\Users\Ullah\Desktop\IP Calc\IP Calc\obj\Debug\IP Calc.csproj.GenerateResource.cache
+C:\Users\Ullah\Desktop\IP Calc\IP Calc\obj\Debug\IP Calc.csproj.CoreCompileInputs.cache
+C:\Users\Ullah\Desktop\IP Calc\IP Calc\obj\Debug\IP Calc.exe
+C:\Users\Ullah\Desktop\IP Calc\IP Calc\obj\Debug\IP Calc.pdb
+C:\Users\Ullah\Desktop\Bewerbung\Projekte zum Zeigen\IP Calc\IP Calc\bin\Debug\IP Calc.exe.config
+C:\Users\Ullah\Desktop\Bewerbung\Projekte zum Zeigen\IP Calc\IP Calc\bin\Debug\IP Calc.exe
+C:\Users\Ullah\Desktop\Bewerbung\Projekte zum Zeigen\IP Calc\IP Calc\bin\Debug\IP Calc.pdb
+C:\Users\Ullah\Desktop\Bewerbung\Projekte zum Zeigen\IP Calc\IP Calc\obj\Debug\IP Calc.csprojAssemblyReference.cache
+C:\Users\Ullah\Desktop\Bewerbung\Projekte zum Zeigen\IP Calc\IP Calc\obj\Debug\IP_Calc.Form1.resources
+C:\Users\Ullah\Desktop\Bewerbung\Projekte zum Zeigen\IP Calc\IP Calc\obj\Debug\IP_Calc.Properties.Resources.resources
+C:\Users\Ullah\Desktop\Bewerbung\Projekte zum Zeigen\IP Calc\IP Calc\obj\Debug\IP Calc.csproj.GenerateResource.cache
+C:\Users\Ullah\Desktop\Bewerbung\Projekte zum Zeigen\IP Calc\IP Calc\obj\Debug\IP Calc.csproj.CoreCompileInputs.cache
+C:\Users\Ullah\Desktop\Bewerbung\Projekte zum Zeigen\IP Calc\IP Calc\obj\Debug\IP Calc.exe
+C:\Users\Ullah\Desktop\Bewerbung\Projekte zum Zeigen\IP Calc\IP Calc\obj\Debug\IP Calc.pdb
